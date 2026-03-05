@@ -1,28 +1,29 @@
-#Tugas Individu : Praktikum Machine Learning
+# Tugas Individu : Praktikum Machine Learning
 
 **Dosen Pengampu:** Herfandi, A.Md., S.Kom., M.Kom
 
-vidio ini berisi tentang apa yang saya dapatkan selama menonton vidio yang di berikan lalu saya menjelaskan kembali apa yang saya dapatkan(Image Processing) 1.Pengenalan Image Processing 
+vidio ini berisi tentang apa yang saya dapatkan selama menonton vidio yang di berikan lalu saya menjelaskan kembali apa yang saya dapatkan(Image Processing) 
+1.Pengenalan Image Processing 
 2.Konsep Dasar Image Processing
 3.Pengenalan Tools,Library & Pemrograman 
 4.Mendonlowd Anaconda
 
 ...
 
-#Identitas Mahasiswa :
+# Identitas Mahasiswa :
 Nama : Ririn Yuliati
 Nim  : 231001004
 
 ...
 
-#Hasil Praktik 
+# Hasil Praktik 
 Hasil yang saya lakukan 
 - **ANaconda Navigator**
 - **Anaconda Prompt**
 
 ...
 
-#Langkah-Langkah 
+# Langkah-Langkah 
 
 **1.Anaconda Navigator**
 Tools yang saya gunakan adalah JUPYTERLAB
@@ -37,6 +38,6 @@ Tools yang saya gunakan adalah JUPYTERLAB
 
 ...
 
-#Link Youtube 
+# Link Youtube 
 https://youtu.be/Ij318TYmbuk
 
